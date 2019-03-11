@@ -8,4 +8,4 @@ Il embarque avec lui une caméra et un flash pouvant tourner à 180° et tout se
 
 Vidéo de présentation:
 
-[![Watch the video](https://github.com/MicheleBona/PEIP2_Arduino_ExploBot/blob/master/documents/images/Explobot.jpg)](https://www.youtube.com/watch?v=P0yatlXfEzo&feature=youtu.be)
+[![Watch the video]()](https://www.youtube.com/watch?v=P0yatlXfEzo&feature=youtu.be)
