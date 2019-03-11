@@ -7,4 +7,4 @@ Dans le cadre de notre projet de PeiP 2 nous avons créé l'ExploBot, un char to
 Il embarque avec lui une caméra et un flash pouvant tourner à 180° et tout ses déplacements (chenille et angle caméra) sont commandés par une manette de PlayStation 2.
 
 Vidéo de présentation:
-![https://youtu.be/P0yatlXfEzo](https://youtu.be/P0yatlXfEzo)
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/vt5fpE0bzSY)
