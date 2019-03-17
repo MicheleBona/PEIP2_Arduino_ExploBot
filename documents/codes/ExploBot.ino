@@ -17,7 +17,7 @@ byte type = 0;
 byte vibrate = 0;
 
 //servomoteur
-#define cmdServo 9 //PB1 angles relevés: 0 55 110
+#define cmdServo 9 
 Servo servo;
 int angle=90; //angle donné en paramètre au servomoteur
 
